@@ -1,0 +1,5 @@
+// promene bootstrapu ala variables.scss
+@import "./variables.scss";
+
+// bootstrap se includuje poslední - před overide
+@import "./bootstrap-components.scss";

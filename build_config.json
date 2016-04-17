@@ -1,0 +1,31 @@
+{
+  "sass": {
+    "outputStyle": "compressed"
+  },
+  "connect": {
+    "root": "dist",
+    "livereload": true,
+    "port": 3333
+
+  },
+  "usemin": {
+
+
+  },
+
+  "paths": {
+    "scripts": ["app/scripts/**/*.js"],
+    "images": "app/img/**/*",
+    "styles": "app/scss/**/*.scss",
+    "mainStyle": "app/scss/app.scss",
+    "fonts": "app/components/**/*.{ttf,svg,eof,eot,woff,woff2,otf}",
+    "dest": "dist",
+    "pages": "app/pages/**/*.html"
+
+
+
+  }
+
+
+
+}

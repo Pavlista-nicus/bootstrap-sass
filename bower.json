@@ -1,0 +1,20 @@
+{
+  "name": "gulp_tutorial",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "~3.0.2",
+    "font-awesome": "font-awsome#~4.6.1"
+  }
+}
